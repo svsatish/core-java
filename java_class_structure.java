@@ -1,3 +1,7 @@
+// package must be the first statement in a Java file like package com.example; or package com.example.demo; or package com.example.demo.test;
+// package is used to organize classes, prevent naming conflicts, control access, make code more readable, maintainable, reusable, secure, scalable, testable, portable, efficient, flexible, robust
+// import java.util.Date; or import java.util.Random; or import java.util.*; or import java.util.Date; or import java.util.Random;
+// import is used to import classes from a package, make classes available in the current file, import all classes from the java.util package
 public class java_class_structure {
 // public - access modifier
 // class - keyword
