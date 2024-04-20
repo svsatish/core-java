@@ -6,7 +6,17 @@ public class java_class_structure {
 // class - used to define a new class
 // class - used to define a blueprint for objects
 // class - used to define attributes and methods
-
+// We can have many classes in a single file, but only one of them can be public.
+// The name of the file must match the name of the public class.
+// A class can have any number of methods.
+// A class can have any number of attributes.
+// A class can have any number of constructors.
+// A class can have any number of blocks.
+// A class can have any number of nested classes.
+// A class can have any number of interfaces.
+// A class can have any number of annotations.
+// A class can have any number of enum types.
+// A class is a logical representation of a real-world entity.
 
     // Class variables - attributes
     private int x = 5;
